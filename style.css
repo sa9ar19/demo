@@ -87,7 +87,7 @@ a:hover {
 }
 
 #home {
-    background: url(Images/homebackground.jpg);
+    background: url(homebackground.jpg);
     background-size: cover;
     background-attachment: fixed;
     background-size: cover;
